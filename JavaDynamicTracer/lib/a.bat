@@ -1,0 +1,1 @@
+appletviewer -Xnosecurity -J-classpath -J"c:\Program Files\Java\jdk1.6.0_17\lib\jconsole.jar;c:\Program Files\Java\jdk1.6.0_17\lib\tools.jar;c:\kannan\btrace\build\asm-3.0.jar;c:\kannan\btrace\build\btrace-client.jar;c:\kannan\JavaTracer\lib\javatracer.jar;." -J-D"PluginPath=c:\kannan\JavaTracer\object\plugin.jar" JavaTracer.html
